@@ -1,4 +1,6 @@
-# **Retrieval-Based Personal Assistant Chatbot**
+# **Retrieval-Based Personal Assistant Chatbot(DROPED)**
+
+
 
 This project is a **retrieval-based chatbot** designed to assist users in their daily lives. The bot can answer predefined questions, retrieve stored information, and help users manage their day-to-day tasks. The project is built using Python and PostgreSQL.
 
